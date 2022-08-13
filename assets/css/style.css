@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #b3d2e7;
 }
 
 .header h1 {
@@ -14,17 +14,17 @@ body {
     position:fixed;
     display: inline-block;
     font-size: 48px;
-    color:rgb(201, 10, 201);
-    background-color:#000000;
+    color:rgb(255, 255, 255);
+    background-color:#545d63;
 }
 
 .header h1 .seo {
-    color: rgb(189, 77, 36);
+    color: #64b1db;
 }
 
 .header div {
     padding: 20px;
-    background-color: #000000;
+    background-color: #545d63;
     position: fixed;
     right: 0;
     padding-top: 15px;
@@ -38,7 +38,7 @@ body {
   
 .header a {
     float: left;
-    color: #e499d1;
+    color: #64b1db;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -82,7 +82,7 @@ body {
     float: right;
     width: 20%;
     height: 100%;
-    background-color: #2589bd;
+    background-color: #64b1db;
 }
 
 .benefit-lead,
@@ -113,7 +113,7 @@ body {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    background-color: #0072bb;
+    background-color: #545d63;
     color: #ffffff;
 }
 
@@ -141,7 +141,14 @@ body {
 }
 
 #form-formatting {
-position:  center;
-background-color:#2589bd;
-
+z-index: 1;    
+position: absolute;
+left: 450px;
+top: 400px;
+color: white;
+background-color:#545d63;
+width: 40%;
+padding: 15px;
+border: 10px solid #64b1db;
+box-sizing: border-box;
 }
