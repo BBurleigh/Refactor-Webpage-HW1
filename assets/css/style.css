@@ -73,12 +73,12 @@ body {
     margin-right: 25px;
 }
 
-.float-right {
+#float-right {
     float: right;
     margin-left: 25px;
 }
 
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -137,15 +137,28 @@ body {
     font-size: 20px;
 }
 
-#form-formatting {
-z-index: 1;    
-position: absolute;
-left: 450px;
-top: 400px;
-color: white;
-background-color:#545d63;
-width: 40%;
-padding: 15px;
-border: 10px solid #64b1db;
-box-sizing: border-box;
+#contact-form-formatting {
+    z-index: 1;    
+    position: absolute;
+    left: 450px;
+    top: 400px;
+    color: white;
+    background-color:#545d63;
+    width: 40%;
+    padding: 15px;
+    border: 10px solid #64b1db;
+    box-sizing: border-box;
+}
+
+.coming-soon-message {
+    z-index: 1;    
+    position: absolute;
+    left: 450px;
+    top: 400px;
+    color: white;
+    background-color:#545d63;
+    width: 40%;
+    padding: 15px;
+    border: 10px solid #64b1db;
+    box-sizing: border-box;    
 }
