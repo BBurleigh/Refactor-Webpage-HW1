@@ -10,6 +10,9 @@ Other than in hopes of earning a good grade, the purpose of this project was to 
 
 No installation needed. It can be accessed at https://bburleigh.github.io/Refactor-Webpage-HW1/.
 
+![Screenshot (2)](https://user-images.githubusercontent.com/109905208/184520640-40d515f6-3637-4c65-9ed3-9a7755d79da6.png)
+
+
 ## Usage
 
 In theory, I am a member of a marketing agency who wants a codebase that follows accessibility standards so that the Horiseon site is optimized for search engines. 
